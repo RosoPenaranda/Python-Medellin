@@ -1,4 +1,4 @@
-# Code Mentoring Medellin
+# Python Medellin Valle del Software
 
 En este repositorio se encontrara el código de las de las mentorias dictadas
 para el curso de Python Medellin dictadas por mi para el Valle del Software.
